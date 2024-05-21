@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/header.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/SVGsHeader/istanbulShowcase.svg" alt="Istanbul Showcase" style="width: 100%"></a>
 </div>
 <br>
 
@@ -7,7 +7,7 @@ An interactive showcase for iPhone 14 Pro-Max (A Figma Prototyping Demonstration
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/overview.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/overview.svg" alt="Overview" style="width: 100%"></a>
 </div>
 <br>
 
@@ -15,7 +15,7 @@ This is a lab assignment for one of my second year classes (ENSE271). It is an i
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/features.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/features.svg" alt="Features" style="width: 100%"></a>
 </div>
 <br>
 
@@ -28,7 +28,7 @@ This is a lab assignment for one of my second year classes (ENSE271). It is an i
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/technologiesUsed.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/technologiesUsed.svg" alt="Technologies Used" style="width: 100%"></a>
 </div>
 <br>
 
@@ -38,7 +38,7 @@ This is a lab assignment for one of my second year classes (ENSE271). It is an i
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/resources.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/resources.svg" alt="Resources" style="width: 100%"></a>
 </div>
 <br>
 
@@ -49,7 +49,7 @@ To experience the full interactive prototype, please follow the steps:
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/contentAttribution.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/contentAttribution.svg" alt="Content Attribution" style="width: 100%"></a>
 </div>
 <br>
 
