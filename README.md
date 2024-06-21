@@ -3,7 +3,11 @@
 </div>
 <br>
 
+<div align="center">
+
 An interactive showcase for iPhone 14 Pro-Max (A Figma Prototyping Demonstration)
+
+</div>
 
 <br>
 <div style="width: 100%;">
@@ -12,6 +16,16 @@ An interactive showcase for iPhone 14 Pro-Max (A Figma Prototyping Demonstration
 <br>
 
 This is a lab assignment for one of my second year classes (ENSE271). It is an interactive app prototype designed for the iPhone 14 Pro Max using Figma. It serves as a dynamic content demonstration titled "<a href = "https://www.figma.com/proto/RTfBRmggRnzYyuGRDcAzcT/Untitled?type=design&node-id=2-33&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A33&show-proto-sidebar=1" title="Discover Istanbul App">Discover Istanbul</a>" which offers the users a visually engaging and interactive experience as they explore the app.
+
+<br>
+<div style="width: 100%;">
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/technologiesUsed.svg" alt="Technologies Used" style="width: 100%"></a>
+</div>
+<br>
+
+<div align="center">
+    <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/figma.svg" alt="Figma"></a>
+</div>
 
 <br>
 <div style="width: 100%;">
@@ -25,16 +39,6 @@ This is a lab assignment for one of my second year classes (ENSE271). It is an i
 - <b>Dynamic Content:</b> Each of the five pages features' motion and user driven content changes, showcasing the versatility of Figma's animation capabilities.
 
 - <b>User Selection Based Dynamics:</b> The prototype responds to user choices such as click or slide.
-
-<br>
-<div style="width: 100%;">
-    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/technologiesUsed.svg" alt="Technologies Used" style="width: 100%"></a>
-</div>
-<br>
-
-<div align="center">
-    <a href="https://www.figma.com/" title="Figma" target="_blank"><img src="https://img.shields.io/badge/Figma-red" alt="Figma" style="height: 26px;"></a>
-</div>
 
 <br>
 <div style="width: 100%;">
