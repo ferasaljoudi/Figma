@@ -19,6 +19,16 @@ This is a lab assignment for one of my second year classes (ENSE271). It is an i
 
 <br>
 <div style="width: 100%;">
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/demo.svg" alt="Demo" style="width: 100%"></a>
+</div>
+<br>
+
+<div align="center">
+    <a href="#"><img src="DemoGif/DiscoverIstanbul.gif" alt="Demo Gif"></a>
+</div>
+
+<br>
+<div style="width: 100%;">
     <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/technologiesUsed.svg" alt="Technologies Used" style="width: 100%"></a>
 </div>
 <br>
